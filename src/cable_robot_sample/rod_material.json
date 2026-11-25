@@ -1,0 +1,13 @@
+{
+  "status": "visual_demo_engineering_preset_not_real_cable_calibration",
+  "segment_spacing_m": 0.047,
+  "segment_mass_kg": 0.0012582079507410526,
+  "stretch_stiffness_N_per_m": 50000.0,
+  "stretch_damping_N_s_per_m": 0.5,
+  "shear_stiffness_N_per_m": 50000.0,
+  "shear_damping_N_s_per_m": 0.5,
+  "bend_stiffness_Nm_per_rad": 0.4,
+  "bend_damping_Nm_s_per_rad": 0.5,
+  "twist_stiffness_Nm_per_rad": 0.04,
+  "twist_damping_Nm_s_per_rad": 0.002
+}
